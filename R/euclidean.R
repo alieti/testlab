@@ -2,10 +2,11 @@
 #' @param a a number
 #' @param b a number
 #' 
-#' @return the GCD of \code{a} and \code{b}
+#' @return the GCD of a and b
 #' @examples  
-#' euclidean(100,10)
-#' @description This is a great function rarely seen in nature. See here: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&cad=rja&uact=8&ved=2ahUKEwj6nP7jsdHkAhVBtIsKHUfVCM8QFjALegQIABAB&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEuclidean_algorithm&usg=AOvVaw2vg5R_wmq5L2pEWXWyvzB1
+#' \code{euclidean(a, b)}
+#' @description This is a great function rarely seen in nature. See here: 
+#' \url {https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&cad=rja&uact=8&ved=2ahUKEwj6nP7jsdHkAhVBtIsKHUfVCM8QFjALegQIABAB&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FEuclidean_algorithm&usg=AOvVaw2vg5R_wmq5L2pEWXWyvzB1}
 
 euclidean <- function(a,b){
   #' check input type
