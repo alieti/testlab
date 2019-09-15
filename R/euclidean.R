@@ -17,7 +17,7 @@ euclidean <- function(a,b){
   
   #'calculate the remainder
   remainder <- Max %% Min
-  r <- c(remainder)......200201
+  r <- c(remainder)
   
 
   if(remainder == 0){return(Min)}
