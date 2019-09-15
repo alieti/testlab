@@ -7,9 +7,9 @@
 euclidean(a, b)
 }
 \arguments{
-\item{A}{a}
+\item{a}{a number}
 
-\item{B}{b}
+\item{b}{a number}
 }
 \value{
 the GCD of two given numbers
@@ -21,4 +21,8 @@ obtain maximum and minimum of the inputs
 calculate the remainder
 repeat process until remainder is equal to zero
 return one to the last remainder
+}
+\examples{
+ 
+euclidean(100,10)
 }
