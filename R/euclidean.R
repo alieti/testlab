@@ -2,7 +2,7 @@
 #' @param a a number
 #' @param b a number
 #' 
-#' @return the GCD of a and b
+#' @return the GCD of a and b.
 #' @examples  
 #' \code{euclidean(a, b)}
 #' @description This is a great function rarely seen in nature. See here: 
