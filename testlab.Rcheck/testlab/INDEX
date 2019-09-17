@@ -1,0 +1,3 @@
+testlab-package         The package consists of two main fucntion,
+                        Euclidean to calculate the GCD of two numbers
+                        and the dijkstra's shortest path algorithm

@@ -1,0 +1,14 @@
+Package: testlab
+Type: Package
+Title: The package consists of two main fucntion, Euclidean to
+        calculate the GCD of two numbers and the dijkstra's shortest
+        path algorithm
+Version: 1.0
+Date: 2019-09-14
+Author: Ali Etminan
+Maintainer: Ali Etminan <aliet176@student.liu.se>
+Description: More and more about the algorithms
+License: GPL
+RoxygenNote: 6.1.1
+NeedsCompilation: no
+Packaged: 2019-09-17 13:22:56 UTC; romina
